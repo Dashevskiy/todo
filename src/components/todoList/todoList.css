@@ -1,0 +1,9 @@
+.todo-list .list-group-item {
+    padding: .25rem .75rem;
+}
+.not-found{
+    text-align: center;
+    margin: 20px 0;
+    color: #6c757d;
+    font-style: italic;
+}
